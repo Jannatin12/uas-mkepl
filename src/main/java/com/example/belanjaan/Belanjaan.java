@@ -14,7 +14,7 @@ public class Belanjaan {
 
     public void tambahItem(String nama, int harga) {
         items.put(nama, harga);
-        totalHarga += harga;
+        totalHarga += harga + 1;
     }
 
     public void hapusItem(String nama) {
