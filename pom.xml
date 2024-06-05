@@ -3,13 +3,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>contohprojectmaven</groupId>
   <artifactId>uas-mkepl</artifactId>
-  <version>0.3.5</version>
+  <version>0.3.6</version>
 
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.11</version>      <!-- Or whatever JUnit you're using. -->
+      <version>4.11</version>      <!-- Or whatever JUnit you're using hehe. -->
     </dependency>
   </dependencies>
 
