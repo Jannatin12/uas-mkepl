@@ -15,14 +15,10 @@ public class DriverBelanjaan {
         System.out.println("Total harga: " + belanjaan.dapatkanTotalHarga() + "\n");
 
         belanjaan.hapusItem("Pensil");
-        
-        belanjaan.tampilkanItem();
 
         System.out.println("Total harga setelah pensil dihapus: " + belanjaan.dapatkanTotalHarga()  + "\n"  );
 
         belanjaan.reset();
-        
-        belanjaan.tampilkanItem();
 
         System.out.println("Total harga setelah reset: " + belanjaan.dapatkanTotalHarga());
     }
