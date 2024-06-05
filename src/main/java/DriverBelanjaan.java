@@ -24,6 +24,6 @@ public class DriverBelanjaan {
         
         belanjaan.tampilkanItem();
 
-        System.out.println("Total harga setelah reset: " + belanjaan.dapatkanTotalHarga());
+        System.out.println("Total harga setelah reset adalah: " + belanjaan.dapatkanTotalHarga());
     }
 }
