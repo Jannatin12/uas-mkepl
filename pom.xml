@@ -13,13 +13,13 @@
     </dependency>
   </dependencies>
 
-  <!-- <distributionManagement>
+  <distributionManagement>
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/akunmkepl/continuous_deployment</url>
+      <url>https://maven.pkg.github.com/Jannatin12/uas-mkepl</url>
     </repository>
-  </distributionManagement> -->
+  </distributionManagement>
 
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
